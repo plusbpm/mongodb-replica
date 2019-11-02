@@ -8,5 +8,5 @@ the initialization process settings are not implemented
 
 ## Usage
 
-	Same as [mvertes/alpine-mongo]
+	Same as [mvertes/alpine-mongo](https://hub.docker.com/r/mvertes/alpine-mongo)
 
