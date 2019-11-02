@@ -41,6 +41,3 @@ mongo $DB_NAME --eval 'db.dropDatabase()'
 
 echo "WAIT MONGOD FOREVER"
 wait
-
-echo "KILL MONGO"
-killall mongod
